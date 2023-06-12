@@ -1,0 +1,29 @@
+SplashKit Animation
+
+//Multi-frame: ranges are in[]
+//[a-b] = numbers from a to b inclusive
+//[a,b,c] = explicit values
+//[a-b,c] = combination
+
+
+f:0, 0, 8, 1
+f:1, 1, 8, 2
+f:2, 2, 8, 3
+f:3, 3, 8, 4
+f:4, 4, 8, 5
+f:5, 5, 8, 6
+f:6, 6, 8, 7
+f:7, 7, 8, 8
+f:8, 8, 8, 0
+
+
+
+
+
+
+
+
+
+//identifiers
+i:witchattack,0
+

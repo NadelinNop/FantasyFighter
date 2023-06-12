@@ -1,0 +1,16 @@
+C:\Users\Nadelin\Desktop\TestingGUI\bin\Debug\netcoreapp5.0\TestingGUI.exe
+C:\Users\Nadelin\Desktop\TestingGUI\bin\Debug\netcoreapp5.0\TestingGUI.deps.json
+C:\Users\Nadelin\Desktop\TestingGUI\bin\Debug\netcoreapp5.0\TestingGUI.runtimeconfig.json
+C:\Users\Nadelin\Desktop\TestingGUI\bin\Debug\netcoreapp5.0\TestingGUI.runtimeconfig.dev.json
+C:\Users\Nadelin\Desktop\TestingGUI\bin\Debug\netcoreapp5.0\TestingGUI.dll
+C:\Users\Nadelin\Desktop\TestingGUI\bin\Debug\netcoreapp5.0\ref\TestingGUI.dll
+C:\Users\Nadelin\Desktop\TestingGUI\bin\Debug\netcoreapp5.0\TestingGUI.pdb
+C:\Users\Nadelin\Desktop\TestingGUI\obj\Debug\netcoreapp5.0\TestingGUI.csproj.AssemblyReference.cache
+C:\Users\Nadelin\Desktop\TestingGUI\obj\Debug\netcoreapp5.0\TestingGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadelin\Desktop\TestingGUI\obj\Debug\netcoreapp5.0\TestingGUI.AssemblyInfoInputs.cache
+C:\Users\Nadelin\Desktop\TestingGUI\obj\Debug\netcoreapp5.0\TestingGUI.AssemblyInfo.cs
+C:\Users\Nadelin\Desktop\TestingGUI\obj\Debug\netcoreapp5.0\TestingGUI.csproj.CoreCompileInputs.cache
+C:\Users\Nadelin\Desktop\TestingGUI\obj\Debug\netcoreapp5.0\TestingGUI.dll
+C:\Users\Nadelin\Desktop\TestingGUI\obj\Debug\netcoreapp5.0\ref\TestingGUI.dll
+C:\Users\Nadelin\Desktop\TestingGUI\obj\Debug\netcoreapp5.0\TestingGUI.pdb
+C:\Users\Nadelin\Desktop\TestingGUI\obj\Debug\netcoreapp5.0\TestingGUI.genruntimeconfig.cache
